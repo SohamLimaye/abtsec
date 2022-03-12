@@ -5,10 +5,10 @@ body{
 p1{
     position:relative;
     margin-left: 11%;
-    font-size: 300%;
+    margin-top: 1em;
+    font-size: 3em;
     width: 80%;
     height:auto;
-    margin-top: 1em;
     font-family: 'poppins', 'bold';
     border-bottom: 2px solid ;
     text-align: center;
@@ -28,7 +28,7 @@ p2{
     padding-left: 5%;
     padding-top: 5%;
     margin-top: 1em;
-    font-size: 150%;
+    font-size: 1.5em;
     margin-left: 1%;
     margin-right: 1%;
     width: 90%;
@@ -41,7 +41,7 @@ p3{
     padding-top: 5%;
     padding-bottom: 5%;
     top: 50%;
-    font-size: 150%;
+    font-size: 1.5em;
     margin-left: 1%;
     margin-right: 1%;
     position: relative;

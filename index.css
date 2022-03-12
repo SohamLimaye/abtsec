@@ -82,19 +82,19 @@ button:hover{
 section2{
     background-color: black;
     position: relative;
-    padding-bottom: 5%;
-    margin-left: -1%;
+    width: 100%;
+    height:30em;
     margin-right: -10%;
     margin-bottom: 4%;
-    margin-top: 4%;
+    margin-top: 4em;
     float: left;
-    width: 74.5em;
 }
 p4{
+    position: relative;
     color: white;
     font-family: 'poppins', 'bold';
     font-size: 250%;
-    margin-top: 10%;
+    margin-top: 1em;
     margin-left: 20%;
     margin-right: 25%;
     float: left;
@@ -104,31 +104,32 @@ p4{
 }
 .img2{
     position: relative;
-    max-width: 20em;
-    max-height: 30em;
-    margin-top: 5em;
-    margin-left: 2em;
-    margin-bottom: 10%;
-    float: left;
-
+    left:0%;
+    width: 25%;
+    height: 25%;
+    margin-left: 3%;
+    margin-top: 7%;
+    margin-bottom:7%;
 }
 .img3{
     position: relative;
-    max-width: 20em;
-    max-height: 30em;
-    margin-top: 4em;
-    margin-left: 3em;
-    margin-bottom: 10%;
-    float: left;
+    left:0%;
+    width: 25%;
+    height: 25%;
+    margin-left: 3%;
+    margin-top: 7%;
+    margin-bottom: 7%;
 }
 .img4{
     position: relative;
-    max-width: 20em;
-    max-height: 20em;
-    margin-top: 4em;
-    margin-left: 3em;
-    margin-bottom: 10%;
-    float: left;
+    left:0%;
+    top:0%;
+    width: 25%;
+    height: 25%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    margin-left: 3%;
+    
 }
 button1{
     position: relative;
@@ -140,7 +141,6 @@ button1{
     float: left;
     margin-left: 45%;
     margin-bottom: 2em;
-    padding: 1%;
     text-align: center;
     border-radius: 1em;
 }
@@ -155,7 +155,6 @@ button1:hover{
     margin-left: 45%;
     cursor: pointer;
     margin-bottom: 2em;
-    padding: 1%;
     text-align: center;
     border-radius: 1em;
 }

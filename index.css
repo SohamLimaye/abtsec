@@ -53,7 +53,7 @@ p3{
 }
 button{
     position: relative;
-    font-size: 1.25rem;
+    font-size: 125%;
     background-color: black;
     color: white;
     width: 13%;
@@ -67,7 +67,7 @@ button{
 }
 button:hover{
     position: relative;
-    font-size: 1.25rem;
+    font-size: 125%;
     background-color: grey;
     color: white;
     width: 13%;
@@ -133,7 +133,7 @@ p4{
 }
 button1{
     position: relative;
-    font-size: 1.25rem;
+    font-size: 125%;
     background-color: white;
     color: black;
     width: 12%;
@@ -146,7 +146,7 @@ button1{
 }
 button1:hover{
     position: relative;
-    font-size: 1.25rem;
+    font-size: 125%;
     background-color: seashell;
     color: black;
     width: 12%;
@@ -158,3 +158,87 @@ button1:hover{
     text-align: center;
     border-radius: 1em;
 }
+p5{
+    padding-left: 1%;
+    padding-top: 8%;
+    padding-bottom: 1%;
+    top: 50%;
+    font-size: 1.5rem;
+    position: relative;
+    float: left;
+    width: 45%;
+    font-family:'poppins', 'extralight';
+    text-align: center;
+
+}
+.img5{
+    position: relative;
+    left:0%;
+    margin-left: 2%;
+    margin-top: 7%;
+    margin-bottom:7%;
+    align-self: right;
+}
+.img5:hover{
+    position: relative;
+    margin-left: 2%;
+    margin-top: 7%;
+    margin-bottom:7%;
+    cursor:pointer;
+}
+.img6{
+    position: relative;
+    margin-left: 1%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+.img6:hover{
+    position: relative;
+    margin-left: 1%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    cursor:pointer;
+}
+.img7{
+    position: relative;
+    margin-left: 0.75%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+.img7:hover{
+    position: relative;
+    margin-left: 0.75%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    cursor: pointer;  
+}
+p7{
+    position: relative;
+    float:left;
+    width: 25%;
+    height: 25%;
+    margin-top: 3%;
+    margin-bottom: 7%;
+    margin-left: 3%;
+}
+section6{
+    position: relative;
+    width: 25%;
+    height: 25%;
+    margin-left: 1%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+section6:hover{
+    position: relative;
+    width: 25%;
+    height: 25%;
+    margin-left: 1%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    cursor:pointer;
+}
+
+
+
+
